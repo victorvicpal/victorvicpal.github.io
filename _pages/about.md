@@ -1,6 +1,6 @@
 ---
+layout: archive
 title: "About"
-layout: dark
 permalink: /about/
 author_profile: true
 header:
