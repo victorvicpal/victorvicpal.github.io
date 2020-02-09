@@ -3,8 +3,8 @@ layout: archive
 permalink: /publications/
 title: "Scientific Publications"
 author_profile: true
-header:
-  image: "/images/AUSTRIA.png"
+#header:
+  #image: "/images/AUSTRIA.png"
 ---
 
 {% include group-by-array collection=site.posts field="tags" %}
