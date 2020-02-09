@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "Victor Vicente-Palacios"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/victor.png"
   bio              : "Clinical Data Scientist"
   location         : "Salamanca (Spain)"
   email            :
@@ -132,7 +132,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linskedin"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/victorvicpal/"
 
 # Site Footer
