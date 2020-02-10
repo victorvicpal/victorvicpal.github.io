@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /publications/
-title: "Scientific Publications"
+permalink: /datalabusal/
+title: "Datalab USAL"
 author_profile: true
 #header:
   #image: "/images/AUSTRIA.png"
