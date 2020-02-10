@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /datalabusal/
-title: "Datalab USAL"
+title: "Datalab"
 author_profile: true
 header:
   overlay_image:: "/images/DSSG.png"
