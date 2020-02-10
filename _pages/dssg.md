@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 permalink: /dssg/
 title: "Data Science for Social Good"
 author_profile: true

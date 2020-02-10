@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 permalink: /publications/
 title: "Scientific Publications"
 author_profile: true
