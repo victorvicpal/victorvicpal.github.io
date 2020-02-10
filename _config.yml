@@ -290,7 +290,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: dark
+      layout: splash
       author_profile: true
       read_time: true
       comments: # true
@@ -301,5 +301,5 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: dark
+      layout: splash
       author_profile: true
