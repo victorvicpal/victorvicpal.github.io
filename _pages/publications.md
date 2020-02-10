@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 permalink: /publications/
 title: "Scientific Publications"
 author_profile: true
