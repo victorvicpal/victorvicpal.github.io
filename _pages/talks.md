@@ -4,13 +4,14 @@ permalink: /talks/
 title: "Talks"
 author_profile: true
 ---
-## PyConES 2017
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=19BWyccwIjM&t=13s" frameborder="0" allowfullscreen></iframe>
+## PyConES 2017 (Málaga) -- Spanish
 
-## Plataforma Tecnológica SEIS (Murcia)
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/19BWyccwIjM&t?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=_GM3BgQamCM" frameborder="0" allowfullscreen></iframe>
+## Plataforma Tecnológica SEIS (Murcia) -- Spanish
 
-## EHealth Donosti
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/_GM3BgQamCM?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
-<iframe width="420" height="315" src="https://www.youtube.com/watch?v=isKZt4nEs5Q&t=3609s" frameborder="0" allowfullscreen></iframe>
+## EHealth Donosti -- Spanish
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/isKZt4nEs5Q?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
