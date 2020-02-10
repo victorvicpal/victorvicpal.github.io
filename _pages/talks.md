@@ -6,7 +6,7 @@ author_profile: true
 ---
 ## PyConES 2017 (Málaga) -- Spanish
 
-<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/19BWyccwIjM&t?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/19BWyccwIjM?controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 ## Plataforma Tecnológica SEIS (Murcia) -- Spanish
 
