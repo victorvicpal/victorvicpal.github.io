@@ -4,6 +4,10 @@ main:
     url: /publications/
   - title: "Datalab"
     url: /datalabusal/
+  - title: "DSSG"
+    url: /dssg/
+  - title: "Talks"
+    url: /talks/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
