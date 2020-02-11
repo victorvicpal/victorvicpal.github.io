@@ -5,7 +5,8 @@ title: "Data Science for Social Good"
 author_profile: true
 header:
   overlay_image:: "/images/DSSG.png"
-  overlay_filter: 0.5
+  overlay_filter: "0.5"
+  overlay_color: "#000"
 ---
 I was a fellow in 2017 and a partner in 2019. Beyond the great experience of both fellowships, here I summarize the 2 projects we developed.
 
