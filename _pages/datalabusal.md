@@ -1,11 +1,8 @@
 ---
-layout: splash
+layout: single
 permalink: /datalabusal/
 title: "Datalab"
-header:
-  overlay_image:: "/images/DATALAB.png"
-  overlay_filter: "0.5"
-  overlay_color: "#000"
+author_profile: true
 ---
 
 Datalab started 4 years ago as a open and multidisciplinary group focused on Data Science.
