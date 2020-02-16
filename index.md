@@ -16,33 +16,32 @@ I'm currently working at [Philips Healthcare Spain](https://www.philips.es/) in 
 
 ## Previous work experiences
 
-- **Clinical Data Scientist** - Salamanca (Spain):  
-  Philips
-
-- **DSSG Europe Fellow** - Lisbon (Portugal):  
-  Nova University
+- **Data Sciencie for Social Good Europe Fellow** - Lisbon (Portugal):  
+  Nova University (June '17 - Aug '17)
 
 - **Database Engineer** - Paris-Bordeaux (France):  
-  Sogeti
+  Sogeti (Dec '12 - Oct '14)
 
 - **Smart Grid Market Research Analyst** - Salamanca (Spain):
-  Iberdrola
+  Iberdrola (Jul '11 - Jul '12)
 
 ## Education
 
-- **PhD Multivariate Statistics** - Salamanca (Spain):  
-  bla bla
+- **PhD Multivariate Statistics** - University of Salamanca (Spain)  
+  Thesis dissertation: "Multivariate Gaussian Subspatial Regression"
+  (2014 - 2017)
 
-- **Master Of Engineering** - Madrid (Spain):  
-  I graduated from --- with a Master of Engineering in April 2018, majoring in *Mechanic* and *Energy*.
+- **Erasmus fellowship** - Polytechnic University of Hauts-de-France (France)
+  Renewable Energy specialization
+
+- **Master of Mechanical Engineering** - Technical University of Madrid (Spain)  
+  (2003 - 2010)
 
 ---
 
 ## Programming Skills
 
-Proficient with: **Python, R, Scikit-Learn, SQL, bash, Git.**
-
-Familiar with: **Java**
+**Python, R, SQL, bash, Git.**
 
 ## Languages
 
