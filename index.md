@@ -55,8 +55,7 @@ I'm currently working at [Philips Healthcare Spain](https://www.philips.es/) in 
 ## CV
 
 Find attached the PDF version of my CVs:  
-*English version*: [CV]({{ site.url }}/download/CV.pdf)  
-*Spanish version*: [CV]({{ site.url }}/download/CV_es.pdf)
+*English version*: [CV]({{ site.url }}/download/cv.pdf)  
 
 ## Contact me
 
