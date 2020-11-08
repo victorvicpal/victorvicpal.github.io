@@ -10,7 +10,7 @@ header:
 
 # About me
 
-I'm currently working at [Philips Healthcare Spain](https://www.philips.es/) in Salamanca, as a full-time **Clinical Data Scientist** in the [AI Cardio Team](https://IA-Cardiologia-husa.github.io), since September 2017.
+I'm currently working at [Philips Healthcare Spain](https://www.philips.es/) in Salamanca, as a full-time **Clinical Data Scientist** in the [AI Cardio Team](https://IA-Cardiologia-husa.github.io), since September 2017. I am also the organizer of [PyData Salamanca](https://www.meetup.com/es-ES/PyData-Salamanca/).
 
 ---
 
