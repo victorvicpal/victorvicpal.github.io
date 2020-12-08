@@ -16,7 +16,7 @@ I'm currently working at [Philips Healthcare Spain](https://www.philips.es/) in 
 
 ## Previous work experiences
 
-- **Data Sciencie for Social Good Europe Fellow** - Lisbon (Portugal):  
+- **[Data Sciencie for Social Good Europe Fellow](https://www.dssgfellowship.org/europe/)** - Lisbon (Portugal):  
   Nova University (June '17 - Aug '17)
 
 - **Database Engineer** - Paris-Bordeaux (France):  
@@ -28,7 +28,7 @@ I'm currently working at [Philips Healthcare Spain](https://www.philips.es/) in 
 ## Education
 
 - **PhD Multivariate Statistics** - University of Salamanca (Spain)  
-  Thesis dissertation: "Multivariate Gaussian Subspatial Regression"
+  Thesis dissertation: "[Multivariate Gaussian Subspatial Regression](https://www.researchgate.net/publication/339271432_Modelo_de_prediccion_subespacial_Regresion_Multivariante_Gaussiana_Subespacial)"
   (2014 - 2017)
 
 - **Erasmus fellowship** - Polytechnic University of Hauts-de-France (France)
@@ -41,7 +41,7 @@ I'm currently working at [Philips Healthcare Spain](https://www.philips.es/) in 
 
 ## Programming Skills
 
-**Python, R, SQL, bash, Git.**
+**Python, R, SQL, Bash, Git.**
 
 ## Languages
 

@@ -21,8 +21,14 @@ author_profile: true
 - [A laboratory simulation of desalting on calcareous building stone with wet sepiolite](https://link.springer.com/article/10.1007/s12665-016-5647-9). Environmental Earth Sciences 05/2016; 43.
 
 ## Conference Proceedings
+- [A platform for management and visualization of medical data and medical imaging](https://www.youtube.com/watch?v=MJtm90ciR3E&feature=youtu.be). TEEM'20: Proceedings of the Eighth International Conference on Technological Ecosystems for Enhancing Multiculturality. Salamanca, Spain.
+
 - [Design Considerations for High Impact, Automated Echocardiogram Analysis](https://drive.google.com/file/d/1xD4YMfUeEmCacU5RknfxLrjmnsHcUgiV/view). ICML 2020 Workshop on Machine Learning for Global Health.
 
 - [Inteligencia Artificial frente a estadística clásica en la predicción de cardioversión espontánea, farmacológica, eléctrica y recurrencia de fibrilación auricular](https://www.revespcardiol.org/es-congresos-sec-2019-el-congreso-103-sesion-analisis-datos-avances-practica-asistencial-5350-inteligencia-artificial-frente-a-estadistica-63653#), Barcelona, Spain; 10/2019
 
 - [Coronary Artery Segmentation using LadderNet](https://www.researchgate.net/publication/338549350_Coronary_Artery_Segmentation_using_LadderNet), EUSOMII ANNUAL MEETING, Valencia, Spain; 10/2019
+
+## Patents
+
+- [WO2020157212 - Aortic Stenosis Echocardiographic Follow-up Expert System](https://patentscope2.wipo.int/search/en/detail.jsf?docId=WO2020157212&tab=PCTBIBLIO&_cid=JP1-KHVYI4-24860-1)
