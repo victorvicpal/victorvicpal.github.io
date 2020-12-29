@@ -59,4 +59,4 @@ Find attached the PDF version of my CVs:
 
 ## Contact me
 
-For any inquires, you can reach me via email: **_[victorvicpal@gmail.com](mailto:victorvicpal@gmail.com)_**
+For any inquires, you can reach me via email: **_[victorvicpal@tutanota.com](mailto:victorvicpal@tutanota.com)_**
