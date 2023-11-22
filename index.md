@@ -10,7 +10,7 @@ header:
 
 # About me
 
-I'm currently working at [Savana Reserach](https://savanamed.com/) in Granada since June 2023 as a full-time **Senior Data Scientist**. I am also the organizer of [PyData Granada](https://www.meetup.com/pydatagrx/).
+I'm currently working at [Savana Research](https://savanamed.com/) in Granada since June 2023 as a full-time **Senior Data Scientist**. I am also the organizer of [PyData Granada](https://www.meetup.com/pydatagrx/).
 
 ---
 
