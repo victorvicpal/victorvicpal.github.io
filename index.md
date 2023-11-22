@@ -10,11 +10,13 @@ header:
 
 # About me
 
-I'm currently working at [Philips Healthcare Spain](https://www.philips.es/) in Salamanca, as a full-time **Clinical Data Scientist** in the [AI Cardio Team](https://IA-Cardiologia-husa.github.io), since September 2017. I am also the organizer of [PyData Salamanca](https://www.meetup.com/es-ES/PyData-Salamanca/).
+I'm currently working at [Savanamed](https://www.philips.es/) in Granada, as a full-time **Senior Data Scientist**, since June 2023. I am also the organizer of [PyData Granada](https://www.meetup.com/pydatagrx/).
 
 ---
 
 ## Previous work experiences
+- **Clinical Data Scientist** - Salamanca (Spain)
+  Philips Healthcare (Sep '17 - Jun '23)
 
 - **[Data Sciencie for Social Good Europe Fellow](https://www.dssgfellowship.org/europe/)** - Lisbon (Portugal):  
   Nova University (June '17 - Aug '17)
@@ -60,3 +62,5 @@ Find attached the PDF version of my CVs:
 ## Contact me
 
 For any inquires, you can reach me via email: **_[victorvicpal@tutanota.com](mailto:victorvicpal@tutanota.com)_**
+
+[Business card]({{ site.url }}/download/Victor%20Vicente%20Business%20Card.png)
