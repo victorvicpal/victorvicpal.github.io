@@ -41,6 +41,11 @@ I'm currently working at [Savanamed](https://www.philips.es/) in Granada, as a f
 
 ---
 
+## Research
+- [ORCID](https://orcid.org/0000-0003-1895-7436)
+- [Researchgate](https://www.researchgate.net/profile/Victor-Vicente-Palacios)
+- [Google Scholar](https://scholar.google.com/citations?user=9zcGFIoAAAAJ&hl=en&oi=ao)
+
 ## Programming Skills
 
 **Python, R, SQL, Bash, Git.**
