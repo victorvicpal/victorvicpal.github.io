@@ -115,7 +115,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:victorvicpal@tutanota.com
+      url: mailto:victorvicpal@keemail.me
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -134,6 +134,9 @@ author:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/victorvicpal/"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://dair-community.social/@victorvicpal"
 
 # Site Footer
 footer:
@@ -156,6 +159,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://dair-community.social/@victorvicpal"
 
 
 # Reading Files
