@@ -18,7 +18,7 @@ I'm currently working at [Savanamed](https://www.philips.es/) in Granada, as a f
 - **Clinical Data Scientist** - Salamanca (Spain)
   Philips Healthcare (Sep '17 - Jun '23)
 
-- **[Data Sciencie for Social Good Europe Fellow](https://www.dssgfellowship.org/europe/)** - Lisbon (Portugal):  
+- **[Data Science for Social Good Europe Fellow](https://www.dssgfellowship.org/europe/)** - Lisbon (Portugal):  
   Nova University (June '17 - Aug '17)
 
 - **Database Engineer** - Paris-Bordeaux (France):  
