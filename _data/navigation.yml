@@ -1,9 +1,9 @@
 # main links
 main:
-  - title: "Publications"
-    url: /publications/
-  - title: "DatalabUSAL"
-    url: /datalabusal/
+  # - title: "Publications"
+  #  url: /publications/
+  # - title: "DatalabUSAL"
+  #  url: /datalabusal/
   - title: "DSSG"
     url: /dssg/
   - title: "Talks"
