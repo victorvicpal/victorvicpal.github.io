@@ -20,7 +20,7 @@ title                    : "Victor Vicente-Palacios"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Víctor Vicente-Palacios"
-description              : "Data Scientist"
+description              : "Senior Data Scientist"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -109,8 +109,8 @@ analytics:
 author:
   name             : "Victor Vicente-Palacios"
   avatar           : "/images/victor.png"
-  bio              : "Clinical Data Scientist"
-  location         : "Salamanca (Spain)"
+  bio              : "Senior Data Scientist"
+  location         : "Granada (Spain)"
   email            :
   links:
     - label: "Email"
