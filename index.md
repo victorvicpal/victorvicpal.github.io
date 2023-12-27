@@ -67,5 +67,3 @@ Find attached the PDF version of my CVs:
 ## Contact me
 
 For any inquires, you can reach me via email: **_[victorvicpal@tutanota.com](mailto:victorvicpal@tutanota.com)_**
-
-[Business card]({{ site.url }}/download/Victor%20Vicente%20Business%20Card.png)
