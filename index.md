@@ -10,7 +10,7 @@ header:
 
 # About me
 
-I'm currently working at [Savana Research](https://savanamed.com/) in Granada since June 2023 as a full-time **Senior Data Scientist**. I am also the organizer of [PyData Granada](https://www.meetup.com/pydatagrx/).
+I'm currently working at [Savana](https://savanamed.com/) in Granada since June 2023 as a full-time **Technical coordinator** of the Clinical Data Science and Med4Tech teams. I am also the organizer of [PyData Granada](https://www.meetup.com/pydatagrx/).
 
 ---
 
@@ -56,7 +56,7 @@ I'm currently working at [Savana Research](https://savanamed.com/) in Granada si
 |----------|--------|
 | English  | Fluent |
 | French   | Fluent |
-| German | Intermediate |
+| German | Fluent |
 | Spanish  | Proficient |
 
 ## CV
