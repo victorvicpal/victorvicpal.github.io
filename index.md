@@ -62,7 +62,8 @@ I'm currently working at [Savana](https://savanamed.com/) in Granada since June 
 ## CV
 
 Find attached the PDF version of my CVs:  
-*English version*: [CV]({{ site.url }}/download/cv.pdf)  
+*English version*: [CV]({{ site.url }}/download/cv.pdf)
+*Spanish version*: [CVN]({{ site.url }}/download/cvn_VVP.pdf)  
 
 ## Contact me
 
