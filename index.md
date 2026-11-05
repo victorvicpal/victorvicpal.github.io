@@ -10,11 +10,14 @@ header:
 
 # About me
 
-I'm currently working at [Savana](https://savanamed.com/) in Granada since June 2023 as a full-time **Technical coordinator** of the Clinical Data Science and Med4Tech teams. I am also the organizer of [PyData Granada](https://www.meetup.com/pydatagrx/).
+I am an AI specialist and advanced statistician with over 13 years of experience in clinical data analysis. Most recently, I was Clinical Analysis Coordinator at Savana, where I oversaw AI research portfolios and worked to maintain scientific quality and integrity in clinical databases, and I have just stepped away from that role to explore my next chapter. Before that, I spent six years as a Clinical Data Scientist at Philips Ibérica, where I worked on AI projects in clinical settings. I hold a PhD in Applied Multivariate Statistics from the University of Salamanca, have published 19 articles in high-impact journals, and have presented my research at major international conferences. I am also the organizer of [PyData Granada](https://www.meetup.com/pydatagrx/).
 
 ---
 
 ## Previous work experiences
+- **Technical coordinator** of the Clinical Data Science and Clinical Data Quality teams
+  Savana (Jun '23 - Nov '26)
+
 - **Clinical Data Scientist** - Salamanca (Spain)
   Philips Healthcare (Sep '17 - Jun '23)
 
