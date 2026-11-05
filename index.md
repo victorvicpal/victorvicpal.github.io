@@ -66,7 +66,7 @@ I am an AI specialist and advanced statistician with over 13 years of experience
 
 Find attached the PDF version of my CVs:  
 *English version*: [CV]({{ site.url }}/download/cv.pdf)
-*Spanish version*: [CVN]({{ site.url }}/download/cvn_VVP.pdf)  
+*Spanish version*: [CVN]({{ site.url }}/download/4_CVN.pdf)  
 
 ## Contact me
 
